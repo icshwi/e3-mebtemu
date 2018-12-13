@@ -1,0 +1,3 @@
+[submodule "emu"]
+	path = emu
+	url = https://gitlab.esss.lu.se/essb-mebt/emu.git
